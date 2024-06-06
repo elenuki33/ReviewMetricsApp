@@ -6,3 +6,4 @@ ReviewMetrics aims to quantitatively describe review reports on scientific manus
 
 Measure the completeness of your review reports by checking for the presence of +10 textual dimensions in a comprehensive, dynamic and visual way.
 
+![Alt text](review.png)
